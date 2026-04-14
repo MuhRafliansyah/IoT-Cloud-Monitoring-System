@@ -1,6 +1,0 @@
-## Layanan AWS yang Digunakan
-- AWS IoT Core : MQTT broker & rule engine
-- AWS Lambda : Serverless data processing
-- AWS RDS MySQL : Structured sensor data storage
-- AWS S3 : Raw payload object storage
-- AWS EC2 : Web server & monitoring dashboard
