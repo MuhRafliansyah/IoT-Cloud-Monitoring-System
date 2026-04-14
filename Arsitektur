@@ -1,0 +1,5 @@
+## Arsitektur
+Wokwi Simulator → MQTT → AWS IoT Core → Lambda → RDS MySQL
+ ↓
+ S3 (raw payload)
+EC2 (Web Dashboard) ← HTTP ← Browser (End User)
