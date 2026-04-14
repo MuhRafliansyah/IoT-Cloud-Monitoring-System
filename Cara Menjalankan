@@ -1,9 +1,0 @@
-## Cara Menjalankan
-# 1. Clone repository
-git clone 
-# 2. Setup infrastruktur (Minggu 2)
-cd infra/ && terraform init && terraform plan && terraform apply
-# 3. Deploy Lambda (Minggu 3)
-cd lambda/ && pip install -r requirements.txt && ./deploy.sh
-# 4. Jalankan Wokwi Simulator
-# Buka wokwi.com → load project → start simulation
